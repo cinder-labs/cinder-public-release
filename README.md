@@ -11,3 +11,5 @@ Read the whitepaper here: https://github.com/cinder-labs/cinder-public-release/b
 The Cinder framework is currently in public preview, and not intended for production environments.
 
 Interested in integrating your AI-enabled service with the Cinder network? Send us an email at cinder@calcifer.cloud
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Cinder Labs on Ko-fi', '#29abe0', 'F2F2ND6AQ');kofiwidget2.draw();</script> 

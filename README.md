@@ -10,7 +10,7 @@ Cinder assistants are designed to be containerized and instantiated in a collabo
 
 The Cinder framework is currently in public preview, and not intended for production environments.
 
-Interested in integrating your AI-enabled service with the Cinder network? Send us an email at cinder@calcifer.cloud
+Interested in integrating your AI-enabled service with the Cinder network? Send an email to cinder@calcifer.cloud
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2ND6AQ)

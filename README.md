@@ -6,7 +6,7 @@ Cinder is an open-source tool designed to allow anyone to start building special
 
 Cinder assistants are designed to be containerized and instantiated in a collaborative and decentralized network using AI-powered abstract computing. This means that developers using the framework can cooperate to build AI-enabled services without risking the collection of their intellectual property by unauthorized parties. 
 
-[Read the whitepaper.](https://github.com/cinder-labs/cinder-public-release/blob/main/whitepaper.pdf)
+[Read the whitepaper here.](https://github.com/cinder-labs/cinder-public-release/blob/main/whitepaper.pdf)
 
 The Cinder framework is currently in public preview, and not intended for production environments.
 

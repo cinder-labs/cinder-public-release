@@ -2,7 +2,7 @@
 
 This is the repository for the Cinder LLM interaction framework. 
 
-Cinder is an open-source tool designed to allow anyone to start building specialized AI-powered microservices in minutes. The framework supports lazy Web3 integration to enable the sale of access to specialized Cinder assistants in zero-trust environments. 
+Cinder is an open-source tool designed to allow anyone to start building AI-powered microservices in minutes. The framework supports lazy Web3 integration to enable the sale of access to specialized Cinder assistants in zero-trust environments. 
 
 Cinder assistants are designed to be containerized and instantiated in a collaborative and decentralized network using AI-powered abstract computing. This means that developers using the framework can cooperate to build AI-enabled services without risking the collection of their intellectual property by unauthorized parties. 
 

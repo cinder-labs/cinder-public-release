@@ -1,0 +1,5 @@
+input
+output
+resources
+resources/tasks
+resources/misc

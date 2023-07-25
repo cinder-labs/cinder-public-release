@@ -12,6 +12,8 @@ Cinder assistants are designed to be containerized, instantiated, and hosted in 
 
 The Cinder framework is currently in public preview, and not intended for production environments.
 
+[Download the public Docker image here.](https://hub.docker.com/repository/docker/carterkrichard/cinder-public-release/general)
+
 Interested in integrating your AI-enabled service with the Cinder network? Send an email to cinder@calcifer.cloud
 
 
